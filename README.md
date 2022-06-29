@@ -12,6 +12,6 @@ O objetivo foi organizar e deixar o layout igual ao feito em aula.
 
 ![CPT2206290350-1879x970](https://user-images.githubusercontent.com/65739291/176373328-9dbfb9e5-a62f-4552-b150-5f09a7a87c26.gif)
 
-Link do projeto completo: <a href=“https://rocketsect.netlify.app“><strong>AQUI!</strong></a>
+Link do projeto completo: [https://rocketsect.netlify.app](url)
 
 Esta é uma aplicação que foi desenvolvida com 💜 por Thiago Lucas. ... Projeto feito através da @Rocketseat.
